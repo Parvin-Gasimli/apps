@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.active{
+  background-color: rgb(52, 52, 193);
+  color: white;
+}
+input{
+  width: 100%;
+  padding: 10px;
+  outline: none;
+}
+h6{
+  margin: 5px 0px;
+}
